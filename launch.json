@@ -3,7 +3,6 @@
 	"configurations": [
 		{
 			"type": "lldb",
-			"request": "launch",
 			"name": "Debug current file compilation (Jakt)",
 			"cargo": {
 				"args": [
